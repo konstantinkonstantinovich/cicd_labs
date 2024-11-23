@@ -1,2 +1,8 @@
 fastapi
 uvicorn[standard]
+sqlmodel
+psycopg2
+alembic
+faker
+jinja2
+python-multipart
